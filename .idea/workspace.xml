@@ -15,6 +15,65 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000000210452794" />
+      <entry key="MS500" value="1.0461988259773076" />
+      <entry key="S2" value="1.4636152732177312" />
+      <entry key="S5" value="1.7352975255663239" />
+      <entry key="S10" value="1.8576285943592907" />
+      <entry key="S30" value="2.0011773370161055" />
+      <entry key="S60" value="2.2008294220156612" />
+      <entry key="M2" value="2.465577656140988" />
+      <entry key="M5" value="3.179806133520037" />
+      <entry key="M10" value="6.246743829686087" />
+      <entry key="M15" value="11.032374340809934" />
+      <entry key="M30" value="27.613858285781877" />
+      <entry key="H1" value="51.18444751050838" />
+      <entry key="H2" value="72.44507950733194" />
+      <entry key="H4" value="86.969430922999" />
+      <entry key="D1" value="101.71527597410523" />
+      <entry key="W1" value="104.52337614965485" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="9.9E-324" />
+      <entry key="S5" value="5.961404778265764E-130" />
+      <entry key="S10" value="2.441598815994506E-65" />
+      <entry key="S30" value="2.9010692909745886E-22" />
+      <entry key="S60" value="1.703252562297967E-11" />
+      <entry key="M2" value="4.127048051934903E-6" />
+      <entry key="M5" value="0.007018685946452256" />
+      <entry key="M10" value="0.08377759811818583" />
+      <entry key="M15" value="0.1914631809945982" />
+      <entry key="M30" value="0.437565059156462" />
+      <entry key="H1" value="0.6614870060375052" />
+      <entry key="H2" value="0.813318514505544" />
+      <entry key="H4" value="0.9018417347326216" />
+      <entry key="D1" value="0.9829280336509809" />
+      <entry key="W1" value="0.9975431127501145" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="5.631411845348022E-7" />
+      <entry key="MS500" value="0.05626200972006051" />
+      <entry key="S2" value="0.5457223060974963" />
+      <entry key="S5" value="1.071662852420225" />
+      <entry key="S10" value="1.433320671289096" />
+      <entry key="S30" value="1.8297660127082418" />
+      <entry key="S60" value="2.107065452664161" />
+      <entry key="M2" value="2.414737708551794" />
+      <entry key="M5" value="3.163254016207803" />
+      <entry key="M10" value="6.310252729683018" />
+      <entry key="M15" value="11.201025102612972" />
+      <entry key="M30" value="28.02490049663703" />
+      <entry key="H1" value="51.82282278687775" />
+      <entry key="H2" value="73.24265134937622" />
+      <entry key="H4" value="87.86201397826095" />
+      <entry key="D1" value="102.69643145028337" />
+      <entry key="W1" value="105.52065986870707" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
   &quot;fromUser&quot;: false
@@ -31,19 +90,26 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Dell/Desktop/ai-resume-builder/public",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "to.speed.mode.migration.done": "true"
+    "settings.editor.selected.configurable": "vcs.Git",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Users\\Dell\\Desktop\\ai-resume-builder\\node_modules\\typescript\\lib"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\Desktop\ai-resume-builder\public" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,5 +130,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="additionalRoots">
+      <list>
+        <option value="$PROJECT_DIR$/.react-router/types" />
+      </list>
+    </option>
   </component>
 </project>
